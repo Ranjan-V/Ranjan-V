@@ -41,7 +41,7 @@ I am a **Computer Science** student at **VIT** focused on the mathematics of eff
 - 🏛️ **Core Focus:** Competitive Programming, Market Microstructure, Algorithmic Trading and Hedge Funds.
 - 🔭 **Current R&D:** Building a **Limit Order Book (LOB)** engine with **Poisson-based order flow**.
 - 🍎 **Impact:** Founder of **RISE Foundation**, mentoring 500+ students to democratize tech education.
-- 🏆 **Competency:** **CodeChef 6-Star** (Top 0.1%) | **Codeforces Expert** | **LeetCode Knight** | **Project Euler-180**.
+- 🏆 **Competency:** **CodeChef 6-Star** (Top 0.1%) | **Codeforces Candidate Master** | **LeetCode Knight** | **Project Euler Global Rank of-195**.
 
 ---
 
