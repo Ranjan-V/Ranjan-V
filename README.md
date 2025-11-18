@@ -36,7 +36,7 @@
 <br />
 
 ### 👨‍💻 Executive Summary
-I am a **Computer Science** student at **VIT** focused on the mathematics of efficient systems[cite: 5, 6]. [cite_start]My work bridges the gap between **Competitive Programming**, **Quantitative Finance**, and **Social Impact**.
+I am a **Computer Science** student at **VIT** focused on the mathematics of efficient systems. My work bridges the gap between **Competitive Programming**, **Quantitative Finance**, and **Social Impact**.
 
 - 🏛️ **Core Focus:** Competitive Programming, Market Microstructure, Algorithmic Trading and Hedge Funds.
 - 🔭 **Current R&D:** Building a **Limit Order Book (LOB)** engine with **Poisson-based order flow**.
